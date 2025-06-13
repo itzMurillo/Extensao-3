@@ -5,9 +5,9 @@ Universidade Paranaense Campus I Toledo | 12 de Junho de 2025
 
 Extensão III
 Alunos
-60000080 - Murillo Gabriel Moresco - 3° Período
-60003244 - Pedro Henrique Montipó Becker - 2° Período
-60000067 - Luiz Gustavo Ferreira de Souza - 3° Período
+60000080 - Murillo Gabriel Moresco - 3° Período | 
+60003244 - Pedro Henrique Montipó Becker - 2° Período | 
+60000067 - Luiz Gustavo Ferreira de Souza - 3° Período | 
 60001928 - Marllon Gustavo da Silva - 3° Período
 
 Requisitos:
