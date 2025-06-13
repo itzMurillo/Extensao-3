@@ -11,10 +11,17 @@ Alunos
 60001928 - Marllon Gustavo da Silva - 3° Período
 
 Requisitos:
+
 1 - Ter o programa 7zip instalado para acessar e descompactar os arquivos.
+
 2 - Se aparecer algum aviso de ameaça de segurança como "python.exe", você precisa permitir no dispositivo, pois está tentando executar os comandos de python.
+
 Utilização:
+
 1 - Para abrir o terminal com o To-Do-List siga estes passos:
+
 1.1 - Após o download voce deve extrair o arquivo 7zip;
+
 2.2 - Abrir a pasta "tylist" ir na pasta "dist" e abrir o Aplicativo chamado "tylist".
+
 3 - Após isso, ja ira abrir o terminal e você poderá usufruir da ferramenta de lista de afazeres.
