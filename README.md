@@ -23,6 +23,6 @@ Utilização:
 
 1.1 - Após o download voce deve extrair o arquivo 7zip;
 
-2.2 - Abrir a pasta "tylist" ir na pasta "dist" e abrir o Aplicativo chamado "tylist".
+2 - Abrir a pasta "tylist" ir na pasta "dist" e abrir o Aplicativo chamado "tylist".
 
 3 - Após isso, ja ira abrir o terminal e você poderá usufruir da ferramenta de lista de afazeres.
